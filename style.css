@@ -1,0 +1,38 @@
+#classic{
+  
+  width: 100%;
+}
+
+img{
+  
+}
+
+#boi{
+  text-align: center;
+  padding-top: 60px;
+}
+
+#text1{
+  text-align: center;
+}
+/*for the text just below the thumbnail */
+#text2{
+  text-align: center;
+}
+
+#list1{
+  text-align: left;
+  list-style-position:inside;
+  padding-left: 450px;
+  
+}
+#thumbtext{
+  text-align: center;
+ 
+ 
+}
+
+ul{
+  
+}
+
